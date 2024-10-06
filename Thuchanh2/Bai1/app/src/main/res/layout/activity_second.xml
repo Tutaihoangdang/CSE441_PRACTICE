@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity_second">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="#041676"
+            android:text="Exercises1"
+            android:gravity="center"
+            android:textColor="#E6E7EB"
+            android:textSize="20sp" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="92dp"
+                android:layout_height="39dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Họ và tên:"
+                android:textColor="#2196F3"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/edthoten"
+                android:layout_width="match_parent"
+                android:layout_height="91dp"
+                android:layout_gravity="center"
+                android:ems="10"
+                android:inputType="text"
+                android:textColor="#2196F3"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="92dp"
+                android:layout_height="39dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Điểm GPA:"
+                android:textColor="#2196F3"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/edtdtb"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:ems="10"
+                android:inputType="text"
+                android:textColor="#2196F3"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <Button
+            android:id="@+id/btnstart"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="#495ABC"
+            android:text="START NEW ACTIVITY" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

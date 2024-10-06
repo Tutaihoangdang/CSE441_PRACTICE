@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imageView_flag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/country_flag"
+    android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textView_countryNameDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFC107"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView_populationDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView_area"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Diện tích: "
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView_density"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mật độ: "
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView_worldShare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tỷ lệ thế giới: "
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
