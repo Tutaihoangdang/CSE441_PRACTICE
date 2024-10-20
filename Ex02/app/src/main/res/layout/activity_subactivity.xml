@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtWelcomeToClass"
+        android:layout_width="match_parent"
+        android:layout_height="71dp"
+        android:breakStrategy="high_quality"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:text="Chào lớp CR424"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="OK"
+        android:textSize="25sp" />
+
+</LinearLayout>

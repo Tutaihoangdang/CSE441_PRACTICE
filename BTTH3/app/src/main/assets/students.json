@@ -1,0 +1,302 @@
+[
+  {
+    "id": "B27DCCN100",
+    "full_name": {
+      "first": "Hoa",
+      "last": "Mai",
+      "middle": "Thị"
+    },
+    "gender": "Nữ",
+    "birth_date": "10/10/2009",
+    "email": "hoamai1@gmail.com",
+    "address": "Nghệ An",
+    "major": "CNTT",
+    "gpa": 3.25,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN101",
+    "full_name": {
+      "first": "Ngọc Mỹ",
+      "last": "Linh",
+      "middle": "Nguyễn"
+    },
+    "gender": "Nữ",
+    "birth_date": "15/08/2008",
+    "email": "linhngoc@gmail.com",
+    "address": "Hà Nội",
+    "major": "Kinh tế",
+    "gpa": 3.7,
+    "year": 3
+  },
+  {
+    "id": "B27DCCN102",
+    "full_name": {
+      "first": "Bích",
+      "last": "Hoàng",
+      "middle": "Minh"
+    },
+    "gender": "Nữ",
+    "birth_date": "22/07/2010",
+    "email": "bichminh@outlook.com",
+    "address": "TP. Hồ Chí Minh",
+    "major": "CNTT",
+    "gpa": 3.9,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN103",
+    "full_name": {
+      "first": "Khang",
+      "last": "Nguyễn",
+      "middle": "Khải"
+    },
+    "gender": "Nam",
+    "birth_date": "02/03/2010",
+    "email": "khangnguyen@yahoo.com",
+    "address": "Đà Nẵng",
+    "major": "CNTT",
+    "gpa": 3.5,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN104",
+    "full_name": {
+      "first": "Ngọc Mai",
+      "last": "Lương",
+      "middle": "Thị"
+    },
+    "gender": "Nữ",
+    "birth_date": "12/01/2009",
+    "email": "ngocmai@gmail.com",
+    "address": "Hải Phòng",
+    "major": "Kế toán",
+    "gpa": 3.45,
+    "year": 3
+  },
+  {
+    "id": "B27DCCN105",
+    "full_name": {
+      "first": "Thị Hương",
+      "last": "Trần",
+      "middle": "Minh"
+    },
+    "gender": "Nữ",
+    "birth_date": "05/05/2010",
+    "email": "minhhuong@gmail.com",
+    "address": "Huế",
+    "major": "CNTT",
+    "gpa": 3.85,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN106",
+    "full_name": {
+      "first": "Linh",
+      "last": "Trịnh",
+      "middle": "Tuyết"
+    },
+    "gender": "Nữ",
+    "birth_date": "18/12/2011",
+    "email": "tuyetlinh@gmail.com",
+    "address": "Bắc Giang",
+    "major": "Quản trị kinh doanh",
+    "gpa": 3.66,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN107",
+    "full_name": {
+      "first": "Thùy Chi",
+      "last": "Vũ",
+      "middle": "Anh"
+    },
+    "gender": "Nữ",
+    "birth_date": "23/07/2008",
+    "email": "thuychi@gmail.com",
+    "address": "Thanh Hóa",
+    "major": "Marketing",
+    "gpa": 3.2,
+    "year": 3
+  },
+  {
+    "id": "B27DCCN108",
+    "full_name": {
+      "first": "Hoàng Minh",
+      "last": "Đỗ",
+      "middle": "Thành"
+    },
+    "gender": "Nam",
+    "birth_date": "08/02/2009",
+    "email": "hoangminh@gmail.com",
+    "address": "Vũng Tàu",
+    "major": "CNTT",
+    "gpa": 3.75,
+    "year": 3
+  },
+  {
+    "id": "B27DCCN109",
+    "full_name": {
+      "first": "Tú",
+      "last": "Phạm",
+      "middle": "Quốc"
+    },
+    "gender": "Nam",
+    "birth_date": "10/10/2010",
+    "email": "tuquoc@gmail.com",
+    "address": "Đồng Nai",
+    "major": "CNTT",
+    "gpa": 3.55,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN110",
+    "full_name": {
+      "first": "Hải Nam",
+      "last": "Nguyễn",
+      "middle": "Văn"
+    },
+    "gender": "Nam",
+    "birth_date": "15/09/2009",
+    "email": "hainam@gmail.com",
+    "address": "Bình Thuận",
+    "major": "CNTT",
+    "gpa": 3.65,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN111",
+    "full_name": {
+      "first": "Hoàng Vũ",
+      "last": "Đặng",
+      "middle": "Công"
+    },
+    "gender": "Nam",
+    "birth_date": "20/11/2010",
+    "email": "dangvu@gmail.com",
+    "address": "Bình Dương",
+    "major": "Kinh tế",
+    "gpa": 3.25,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN112",
+    "full_name": {
+      "first": "Ngọc Mai",
+      "last": "Phạm",
+      "middle": "Thị"
+    },
+    "gender": "Nữ",
+    "birth_date": "22/06/2008",
+    "email": "phamngoc@gmail.com",
+    "address": "Quảng Ninh",
+    "major": "CNTT",
+    "gpa": 3.9,
+    "year": 3
+  },
+  {
+    "id": "B27DCCN113",
+    "full_name": {
+      "first": "Thành Đạt",
+      "last": "Lê",
+      "middle": "Quốc"
+    },
+    "gender": "Nam",
+    "birth_date": "07/08/2009",
+    "email": "thanhdat@gmail.com",
+    "address": "Hà Tĩnh",
+    "major": "CNTT",
+    "gpa": 3.8,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN114",
+    "full_name": {
+      "first": "Kim Oanh",
+      "last": "Ngô",
+      "middle": "Phương"
+    },
+    "gender": "Nữ",
+    "birth_date": "12/12/2008",
+    "email": "kimoanh@gmail.com",
+    "address": "Cà Mau",
+    "major": "Luật",
+    "gpa": 3.4,
+    "year": 3
+  },
+  {
+    "id": "B27DCCN115",
+    "full_name": {
+      "first": "Phương Thảo",
+      "last": "Bùi",
+      "middle": "Thị"
+    },
+    "gender": "Nữ",
+    "birth_date": "04/04/2010",
+    "email": "phuongthao@gmail.com",
+    "address": "Quảng Ngãi",
+    "major": "CNTT",
+    "gpa": 3.7,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN116",
+    "full_name": {
+      "first": "Đức Khánh",
+      "last": "Phạm",
+      "middle": "Quốc"
+    },
+    "gender": "Nam",
+    "birth_date": "30/06/2009",
+    "email": "duckhanh@gmail.com",
+    "address": "Đà Nẵng",
+    "major": "CNTT",
+    "gpa": 3.55,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN117",
+    "full_name": {
+      "first": "Lan Chi",
+      "last": "Trần",
+      "middle": "Thị"
+    },
+    "gender": "Nữ",
+    "birth_date": "29/09/2009",
+    "email": "lanchi@gmail.com",
+    "address": "Hà Nam",
+    "major": "CNTT",
+    "gpa": 3.65,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN118",
+    "full_name": {
+      "first": "Hoài Nam",
+      "last": "Nguyễn",
+      "middle": "Minh"
+    },
+    "gender": "Nam",
+    "birth_date": "02/05/2010",
+    "email": "hoainam@gmail.com",
+    "address": "Ninh Bình",
+    "major": "CNTT",
+    "gpa": 3.45,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN119",
+    "full_name": {
+      "first": "Hữu Phát",
+      "last": "Lê",
+      "middle": "Thanh"
+    },
+    "gender": "Nam",
+    "birth_date": "19/11/2009",
+    "email": "huuphat@gmail.com",
+    "address": "Long An",
+    "major": "CNTT",
+    "gpa": 3.75,
+    "year": 2
+  }
+  ]

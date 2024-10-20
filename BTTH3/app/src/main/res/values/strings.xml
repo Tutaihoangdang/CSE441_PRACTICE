@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BTTH3_Connectjson_CRUD</string>
+    <string name="student_gender">Student Gender</string>
+    <string-array name="address_list">
+        <item>Hà Nội</item>
+        <item>TP HCM</item>
+        <item>Bắc Giang</item>
+    </string-array>
+
+    <string-array name="major_list">
+        <item>CNTT</item>
+        <item>QTKD</item>
+        <item>Marketing</item>
+    </string-array>
+
+</resources>

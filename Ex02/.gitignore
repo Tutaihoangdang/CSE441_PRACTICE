@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration file
+local.properties
+
+# Android Studio specific files
+.idea/
+*.iml
+.DS_Store
+
+# Other files to ignore
+*.log
+*.tmp
+*.bak
