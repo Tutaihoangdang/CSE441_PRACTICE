@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".SubActivity">
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="#"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:gravity="right"
+            />
+
+        <TextView
+            android:id="@+id/txtMaso"
+            android:layout_width="267dp"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="@color/black"
+            android:textSize="18dp" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name of the song:"
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lyrics: "
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:id="@+id/txtLyrics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Author"
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:id="@+id/txtAuthor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Status: "
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/btnLove"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#0000"
+                android:src="@drawable/love"
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+            <ImageButton
+                android:id="@+id/btnUnLove"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#0000"
+                android:src="@drawable/unlike"
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+        </FrameLayout>
+    </TableRow>
+</TableLayout>
